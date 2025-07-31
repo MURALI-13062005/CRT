@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.box {
+  margin: 10px;
+  padding: 5px;
+  color: rgb(12, 1, 1);
+}
+
+.block {
+  display: block;
+  background-color: rgb(95, 188, 241);
+  width: 150px;
+  height: 150px;
+}
+
+.inline {
+  display: inline;
+  background-color: rgb(12, 212, 79);
+  width: 100px;
+  height: 30px;
+}
+
+.inline-block {
+  display: inline-block;
+  background-color: rgb(238, 43, 222);
+  width: 100px;
+  height: 100px;
+}
